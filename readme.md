@@ -1,1 +1,2 @@
 "# VIQ" 
+changes to readme
